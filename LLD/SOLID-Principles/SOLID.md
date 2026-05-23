@@ -17,3 +17,12 @@
 # O : Open Close Principle
 - A class should be open for extension but closed for modification.
 - Open close principle can be applied using the polymorphism, abstract classes and inheritance.
+- Use abstract classes and interfaces to achieve this. 
+- Save to db 
+
+# L : Liskov Substitution Principle
+- A class should be substitutable for its child class.
+- Liskov Substitution Principle can be applied using the polymorphism, abstract classes and inheritance.
+- A place where we can use the base class , we can use the derived class as well , there only one thing we need to do is we don't override the method of the base class.
+- if a child class is narrowing the functionality of the parent class then we can use the child class as a abstract class and can make a class like the super-base class .
+- Account example : FD , Saving , current etc .
