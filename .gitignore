@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+*.plist
+Info.plist
+
+# Compiled binaries
+*.out
+*.o
+*.exe
+solid
+*.yml
+*.yaml
