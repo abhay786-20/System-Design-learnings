@@ -1,3 +1,5 @@
+// ISP violated 
+
 #include <iostream>
 #include <stdexcept>
 
@@ -82,6 +84,7 @@ int main() {
 
 
 
+// ISP Adhered 
 #include <iostream>
 
 using namespace std;
