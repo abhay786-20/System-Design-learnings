@@ -1,3 +1,4 @@
+
 # SOLID Principles — Interview Q&A Cheatsheet
 > SDE-1/2 Interview Prep | Abhay | 2026
 
